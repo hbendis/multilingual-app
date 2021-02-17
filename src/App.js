@@ -23,9 +23,6 @@ function App() {
           <button onClick={()=>handleClick('de')} >
             German
          </button>
-         <button onClick={()=>handleClick('it')} >
-            Italian
-         </button>
         </nav>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
